@@ -1,5 +1,5 @@
 """"
-Copyright © Krypton 2022 - https://github.com/kkrypt0nn (https://krypton.ninja)
+Copyright © Arcadia 2022 - https://github.com/ArcadiaVRC
 Description:
 This is a template to create your own discord bot in python.
 
@@ -32,7 +32,7 @@ class General(commands.Cog, name="general-slash"):
         :param interaction: The application command interaction.
         """
         embed = disnake.Embed(
-            description="Used [Krypton's](https://krypton.ninja) template",
+            description="Used [Arcadia's](https://github.com/ArcadiaVRC) template",
             color=0x9C84EF
         )
         embed.set_author(
@@ -152,7 +152,7 @@ class General(commands.Cog, name="general-slash"):
         :param interaction: The application command interaction.
         """
         embed = disnake.Embed(
-            description=f"Join the support server for the bot by clicking [here](https://discord.gg/mTBrXyWxAF).",
+            description=f"Add me on Discord for support: .𝒜𝓇𝒸𝒶𝒹𝒾𝒶𝒱𝑅#4452",
             color=0xD75BF4
         )
         try:
