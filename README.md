@@ -1,15 +1,5 @@
 # Python Discord Bot Template
 
-<p align="center">
-  <a href="//discord.gg/mTBrXyWxAF"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/v/release/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/kkrypt0nn/Python-Discord-Bot-Template/total"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/issues"><img src="https://img.shields.io/github/issues-raw/kkrypt0nn/Python-Discord-Bot-Template"></a>
-</p>
-
 This repository is a template that everyone can use for the start of their discord bot.
 
 When I first started creating my discord bot it took me a while to get everything setup and working with cogs and more.
@@ -25,7 +15,7 @@ If you plan to use this template to make your own template or bot, you **have to
 - Keep the credits, and a link to this repository in all the files that contains my code
 - Keep the same license for unchanged code
 
-See [the license file](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/master/LICENSE.md) for more
+See [the license file](https://github.com/ArcadiaVRC/Template-Bot/blob/main/LICENSE.md) for more
 information, I reserve the right to take down any repository that does not meet these requirements.
 
 ## Support
@@ -34,7 +24,7 @@ Before requesting support, you should know that this template requires you to ha
 Python and the library is made for advanced users. Do not use this template if you don't know the
 basics. [Here's](https://pythondiscord.com/pages/resources) a link for resources to learn python.
 
-If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/mTBrXyWxAF).
+If you need some help for something, do not hesitate to add me on Discord: .𝒜𝓇𝒸𝒶𝒹𝒾𝒶𝒱𝑅#4452
 
 All the updates of the template are available [here](UPDATES.md).
 
@@ -129,15 +119,13 @@ python bot.py
 
 If you have any issues or questions of how to code a specific command, you can:
 
-* Join my discord server [here](https://discord.gg/mTBrXyWxAF)
-* Post them [here](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/issues)
+* Add me on Discord: .𝒜𝓇𝒸𝒶𝒹𝒾𝒶𝒱𝑅#4452
+* Send me an Email: system.watchcat@gmail.com
 
-Me or other people will take their time to answer and help you.
 
 ## Versioning
 
-We use [SemVer](http://semver.org) for versioning. For the versions available, see
-the [tags on this repository](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/tags).
+I use [SemVer](http://semver.org) for versioning.
 
 ## Built With
 
