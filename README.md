@@ -119,8 +119,8 @@ python bot.py
 
 If you have any issues or questions of how to code a specific command, you can:
 
-* Add me on Discord: .𝒜𝓇𝒸𝒶𝒹𝒾𝒶𝒱𝑅#4452
-* Send me an Email: system.watchcat@gmail.com
+* Add me on Discord: AciChu#0069
+* Send me an Email: systemrecall.acichu@gmail.com
 
 
 ## Versioning
