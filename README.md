@@ -129,7 +129,7 @@ I use [SemVer](http://semver.org) for versioning.
 
 ## Built With
 
-* [Python 3.9.12](https://www.python.org/)
+* [Python 3.9.12](https://www.python.org/) 
 
 ## License
 
