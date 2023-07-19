@@ -119,7 +119,7 @@ python bot.py
 
 If you have any issues or questions of how to code a specific command, you can:
 
-* Add me on Discord: AciChu#0069
+* Add me on Discord: nekoya
 * Send me an Email: systemrecall.acichu@gmail.com
 
 
