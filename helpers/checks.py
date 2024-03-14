@@ -1,9 +1,9 @@
 """"
-Copyright © Arcadia 2022 - https://github.com/ArcadiaVRC
+Copyright © Nekoya - https://github.com/FemboyNekoya
 Description:
 This is a template to create your own discord bot in python.
 
-Version: 4.1
+Version: 4.3
 """
 
 import json
