@@ -1,5 +1,5 @@
 """"
-Copyright © Arcadia 2022 - https://github.com/ArcadiaVRC
+Copyright © Nekoya 2024 - https://github.com/FemboyNekoya
 Description:
 This is a template to create your own discord bot in python.
 
