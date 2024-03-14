@@ -1,5 +1,5 @@
 """"
-Copyright © Arcadia 2022 - https://github.com/ArcadiaVRC (https://krypton.ninja)
+Copyright © Nekoya - https://github.com/FemboyNekoya
 Description:
 This is a template to create your own discord bot in python.
 
@@ -28,9 +28,6 @@ else:
 
 """	
 Setup bot intents (events restrictions)
-For more information about intents, please go to the following websites:
-https://docs.disnake.dev/en/latest/intents.html
-https://docs.disnake.dev/en/latest/intents.html#privileged-intents
 
 
 Default Intents:
